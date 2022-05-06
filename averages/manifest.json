@@ -8,7 +8,6 @@
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'"
   },
-  "host_permissions": ["*://*/*"],
   "permissions": ["tabs", "storage"],
   "icons": {
     "16": "icons/16.png",
